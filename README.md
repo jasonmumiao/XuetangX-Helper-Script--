@@ -4,7 +4,7 @@
 [![许可证](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![脚本管理器](https://img.shields.io/badge/Tampermonkey-必需-orange.svg)](https://www.tampermonkey.net/)
 
-**中文** | [English](./README.en.md) `学堂在线全能助手` 是一款专为[学堂在线](https://www.xuetangx.com/)设计的油猴脚本，旨在提升学习效率。它集成了**自动刷课**、**题库提取**和**自动答题**等核心功能，帮助您更轻松地完成课程学习和作业。
+ `学堂在线全能助手` 是一款专为[学堂在线](https://www.xuetangx.com/)设计的油猴脚本，旨在提升学习效率。它集成了**自动刷课**、**题库提取**和**自动答题**等核心功能，帮助您更轻松地完成课程学习和作业。
 
 > **最新更新 (V3.7):** 优化了“自动刷课”功能，采用模拟用户点击的方式，解决了部分课程视频无法自动播放、调速及跳转的问题，兼容性更强。
 
