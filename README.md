@@ -1,10 +1,10 @@
 # 学堂在线全能助手 (XuetangX-All-In-One-Helper)
 
-[![版本](https://img.shields.io/badge/version-3.7-blue.svg)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+[![版本](https://img.shields.io/badge/version-3.7-blue.svg)](https://github.com/jasonmumiao/XuetangX-Helper-Script--)
 [![许可证](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![脚本管理器](https://img.shields.io/badge/Tampermonkey-必需-orange.svg)](https://www.tampermonkey.net/)
 
- `学堂在线全能助手` 是一款专为[学堂在线](https://www.xuetangx.com/)设计的油猴脚本，旨在提升学习效率。它集成了**自动刷课**、**题库提取**和**自动答题**等核心功能，帮助您更轻松地完成课程学习和作业。
+`学堂在线全能助手` 是一款专为[学堂在线](https://www.xuetangx.com/)设计的油猴脚本，旨在提升学习效率。它集成了**自动刷课**、**题库提取**和**自动答题**等核心功能，帮助您更轻松地完成课程学习和作业。
 
 > **最新更新 (V3.7):** 优化了“自动刷课”功能，采用模拟用户点击的方式，解决了部分课程视频无法自动播放、调速及跳转的问题，兼容性更强。
 
@@ -70,16 +70,13 @@
 
 点击下面的链接，您安装的脚本管理器会自动弹出安装页面，点击“安装”即可。
 
--   **[点击此处从 GreasyFork 安装](https://greasyfork.org/scripts/YOUR_SCRIPT_ID)** (推荐)
--   或者，[**点击此处从 GitHub 安装**](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/script.user.js)
-
-> **提示**：当您将脚本上传到 GreasyFork 后，请将上面的 `YOUR_SCRIPT_ID` 替换为您的脚本 ID。同时，请将 GitHub 安装链接中的 `YOUR_USERNAME/YOUR_REPOSITORY` 替换为您的用户名和仓库名，并确保脚本文件名正确。
+-   **[点击此处从 GitHub 安装](https://github.com/jasonmumiao/XuetangX-Helper-Script--/raw/main/%E5%AD%A6%E5%A0%82%E5%9C%A8%E7%BA%BF%E5%85%A8%E8%83%BD%E5%8A%A9%E6%89%8B%20-%20V3.7%20(%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E4%BC%98%E5%8C%96)-3.7.user.js)**
 
 ## 📖 使用说明
 
 安装成功后，在学堂在线的课程页面，右下角会出现一个控制面板。
 
-![控制面板截图](https://i.imgur.com/your-screenshot-url.png) ### 功能按钮详解
+### 功能按钮详解
 
 1.  **自动刷课**
     -   **作用**：在课程学习页面点击，脚本会自动播放视频、设置为2倍速、静音，并在播放完成后自动跳转到下一单元。
@@ -118,8 +115,8 @@
 
 欢迎通过以下方式为本项目做出贡献：
 
--   **提交 Bug**：发现问题？请在 [Issues](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues) 中提交详细报告。
--   **提出建议**：有好的想法？欢迎在 [Issues](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues) 中分享。
+-   **提交 Bug**：发现问题？请在 [Issues](https://github.com/jasonmumiao/XuetangX-Helper-Script--/issues) 中提交详细报告。
+-   **提出建议**：有好的想法？欢迎在 [Issues](https://github.com/jasonmumiao/XuetangX-Helper-Script--/issues) 中分享。
 -   **提交代码**：修复了 Bug 或实现了新功能？欢迎提交 Pull Request！
 
 ## 📜 许可证
