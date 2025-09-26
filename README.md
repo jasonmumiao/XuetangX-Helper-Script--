@@ -1,6 +1,6 @@
 # 学堂在线全能助手 (XuetangX-All-In-One-Helper)
 
-[![版本](https://img.shields.io/badge/version-3.7-blue.svg)](https://github.com/jasonmumiao/XuetangX-Helper-Script--)
+[![版本](https://img.shields.io/badge/version-3.7-blue.svg)](https://github.com/jasonmumiao/XuetangX-Helper-Script)
 [![许可证](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![脚本管理器](https://img.shields.io/badge/Tampermonkey-必需-orange.svg)](https://www.tampermonkey.net/)
 
@@ -70,7 +70,7 @@
 
 点击下面的链接，您安装的脚本管理器会自动弹出安装页面，点击“安装”即可。
 
--   **[点击此处从 GitHub 安装](https://github.com/jasonmumiao/XuetangX-Helper-Script--/raw/main/%E5%AD%A6%E5%A0%82%E5%9C%A8%E7%BA%BF%E5%85%A8%E8%83%BD%E5%8A%A9%E6%89%8B%20-%20V3.7%20(%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E4%BC%98%E5%8C%96)-3.7.user.js)**
+-   **[点击此处从 GitHub 安装](https://github.com/jasonmumiao/XuetangX-Helper-Script/raw/main/%E5%AD%A6%E5%A0%82%E5%9C%A8%E7%BA%BF%E5%85%A8%E8%83%BD%E5%8A%A9%E6%89%8B%20-%20V3.7%20(%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E4%BC%98%E5%8C%96)-3.7.user.js)**
 
 ## 📖 使用说明
 
@@ -115,8 +115,8 @@
 
 欢迎通过以下方式为本项目做出贡献：
 
--   **提交 Bug**：发现问题？请在 [Issues](https://github.com/jasonmumiao/XuetangX-Helper-Script--/issues) 中提交详细报告。
--   **提出建议**：有好的想法？欢迎在 [Issues](https://github.com/jasonmumiao/XuetangX-Helper-Script--/issues) 中分享。
+-   **提交 Bug**：发现问题？请在 [Issues](https://github.com/jasonmumiao/XuetangX-Helper-Script/issues) 中提交详细报告。
+-   **提出建议**：有好的想法？欢迎在 [Issues](https://github.com/jasonmumiao/XuetangX-Helper-Script/issues) 中分享。
 -   **提交代码**：修复了 Bug 或实现了新功能？欢迎提交 Pull Request！
 
 ## 📜 许可证
